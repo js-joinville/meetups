@@ -2,7 +2,9 @@
 
 15 de agosto de 2019
 
-https://www.meetup.com/pt-BR/Javascript-Joinville/events/263296723/
+Evento: https://www.meetup.com/pt-BR/Javascript-Joinville/events/263296723/
+
+Live gravada: https://www.youtube.com/watch?v=HpVga3DhTzc&feature=youtu.be
 
 ### Agenda:
 - 19:00 - Crawleando internet banking - Rafael Negherbon (CTO Transfeera)
