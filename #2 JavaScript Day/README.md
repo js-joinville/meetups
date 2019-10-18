@@ -6,10 +6,10 @@ Evento: https://www.meetup.com/pt-BR/Javascript-Joinville/events/265197015/
 
 ### Agenda:
 - 19:00 - Abertura + Hacktoberfest (Felipe Valtl de Mello)
-  - [Apresentação]()
+  - [Apresentação](Hacktoberfest%202019.pdf)
 - 19:40 - Coffee Break by Magrathea Labs
 - 20:00 - Vuex como apoio arquitetural (Jackson Ricardo Schroeder)
-  - [Apresentação]()
+  - [Apresentação](Vuex%20como%20apoio%20arquitetural.pdf)
 - 20:40 - Networking
 
 Organização:
